@@ -1,0 +1,3 @@
+[submodule "lib/driversdata"]
+	path = lib/driversdata
+	url = https://arklein@bitbucket.org/ellner/driversdata.git
