@@ -1,0 +1,1108 @@
+year,season,Treatment,avg,Period
+1925,fall,Control,17.21728096397601,Historical
+1925,fall,Drought,10.056329852623628,Historical
+1925,fall,Irrigation,25.814582682556264,Historical
+1925,spring,Control,18.321301794322707,Historical
+1925,spring,Drought,12.976614023620074,Historical
+1925,spring,Irrigation,25.347305262076443,Historical
+1925,summer,Control,11.709484857393015,Historical
+1925,summer,Drought,7.446323503145878,Historical
+1925,summer,Irrigation,17.055347642084755,Historical
+1925,winter,Control,13.315843122374767,Historical
+1925,winter,Drought,9.223276082838824,Historical
+1925,winter,Irrigation,20.350699723182537,Historical
+1926,fall,Control,9.687363398101201,Historical
+1926,fall,Drought,5.696549346855353,Historical
+1926,fall,Irrigation,14.85412429747158,Historical
+1926,spring,Control,15.122141884279198,Historical
+1926,spring,Drought,11.143864917370681,Historical
+1926,spring,Irrigation,21.08519244500364,Historical
+1926,summer,Control,9.740118001083076,Historical
+1926,summer,Drought,6.451314339404143,Historical
+1926,summer,Irrigation,14.675622828537946,Historical
+1926,winter,Control,17.563566597413747,Historical
+1926,winter,Drought,12.260843904592951,Historical
+1926,winter,Irrigation,26.918637935956717,Historical
+1927,fall,Control,16.38981704259391,Historical
+1927,fall,Drought,9.565807515726798,Historical
+1927,fall,Irrigation,24.511906460421994,Historical
+1927,spring,Control,17.386704414051216,Historical
+1927,spring,Drought,12.631089865888844,Historical
+1927,spring,Irrigation,24.1740260410866,Historical
+1927,summer,Control,10.441730116408952,Historical
+1927,summer,Drought,6.886171151527044,Historical
+1927,summer,Irrigation,15.676063512089643,Historical
+1927,winter,Control,20.53553565304456,Historical
+1927,winter,Drought,14.134775102579672,Historical
+1927,winter,Irrigation,31.313374555367883,Historical
+1928,fall,Control,11.492786546179687,Historical
+1928,fall,Drought,6.753880185753815,Historical
+1928,fall,Irrigation,17.58525450550035,Historical
+1928,spring,Control,11.78615790332133,Historical
+1928,spring,Drought,8.68532906761786,Historical
+1928,spring,Irrigation,16.4336795623872,Historical
+1928,summer,Control,10.237989741022192,Historical
+1928,summer,Drought,6.747350863185003,Historical
+1928,summer,Irrigation,15.361727010533805,Historical
+1928,winter,Control,20.54436636657399,Historical
+1928,winter,Drought,14.808860808756517,Historical
+1928,winter,Irrigation,31.859988522898767,Historical
+1929,fall,Control,11.52944682629738,Historical
+1929,fall,Drought,6.748365073793895,Historical
+1929,fall,Irrigation,17.408708199664066,Historical
+1929,spring,Control,15.759162965384514,Historical
+1929,spring,Drought,11.563174320377914,Historical
+1929,spring,Irrigation,21.95444152161625,Historical
+1929,summer,Control,10.486805587608112,Historical
+1929,summer,Drought,6.804173507088554,Historical
+1929,summer,Irrigation,15.531561124945155,Historical
+1929,winter,Control,12.659246178616623,Historical
+1929,winter,Drought,9.02420779533411,Historical
+1929,winter,Irrigation,19.55131761689658,Historical
+1930,fall,Control,17.56730796773993,Historical
+1930,fall,Drought,10.249630644525583,Historical
+1930,fall,Irrigation,26.243579919702096,Historical
+1930,spring,Control,12.315688820506482,Historical
+1930,spring,Drought,8.945113682434773,Historical
+1930,spring,Irrigation,17.122665251806932,Historical
+1930,summer,Control,10.847639284916966,Historical
+1930,summer,Drought,7.109501376341,Historical
+1930,summer,Irrigation,16.201205492501664,Historical
+1930,winter,Control,11.750385971559936,Historical
+1930,winter,Drought,8.312389325629255,Historical
+1930,winter,Irrigation,18.09662083842803,Historical
+1931,fall,Control,9.783878351018835,Historical
+1931,fall,Drought,5.749546966103637,Historical
+1931,fall,Irrigation,14.969814987660353,Historical
+1931,spring,Control,15.65600082070853,Historical
+1931,spring,Drought,11.489523206296264,Historical
+1931,spring,Irrigation,21.811497168168536,Historical
+1931,summer,Control,9.983090040149747,Historical
+1931,summer,Drought,6.591226810379802,Historical
+1931,summer,Irrigation,15.001797117362223,Historical
+1931,winter,Control,18.887017815727123,Historical
+1931,winter,Drought,13.281589609258262,Historical
+1931,winter,Irrigation,29.024323398023352,Historical
+1932,fall,Control,9.873062141135973,Historical
+1932,fall,Drought,5.79731309371108,Historical
+1932,fall,Irrigation,15.066350568356096,Historical
+1932,spring,Control,13.25293703752486,Historical
+1932,spring,Drought,9.605249545835353,Historical
+1932,spring,Irrigation,18.417937787831463,Historical
+1932,summer,Control,12.20645847113811,Historical
+1932,summer,Drought,7.7897427902895355,Historical
+1932,summer,Irrigation,17.83121213684889,Historical
+1932,winter,Control,9.324445658861062,Historical
+1932,winter,Drought,6.376652337959726,Historical
+1932,winter,Irrigation,14.185200202939587,Historical
+1933,fall,Control,10.802446147287304,Historical
+1933,fall,Drought,6.342120755368437,Historical
+1933,fall,Irrigation,16.47674987275562,Historical
+1933,spring,Control,14.307869852128523,Historical
+1933,spring,Drought,10.212815704825136,Historical
+1933,spring,Irrigation,19.82459769504319,Historical
+1933,summer,Control,9.962728883766538,Historical
+1933,summer,Drought,6.580924085424603,Historical
+1933,summer,Irrigation,14.977164070399054,Historical
+1933,winter,Control,9.524209737115395,Historical
+1933,winter,Drought,6.792344545796757,Historical
+1933,winter,Irrigation,14.711838885497537,Historical
+1934,fall,Control,14.716760225547212,Historical
+1934,fall,Drought,8.610621700473466,Historical
+1934,fall,Irrigation,22.192732919204705,Historical
+1934,spring,Control,12.240868032767294,Historical
+1934,spring,Drought,9.00273190515348,Historical
+1934,spring,Irrigation,17.061002776756958,Historical
+1934,summer,Control,10.313418500723177,Historical
+1934,summer,Drought,6.784226355473362,Historical
+1934,summer,Irrigation,15.45052871960385,Historical
+1934,winter,Control,18.98162464675788,Historical
+1934,winter,Drought,13.36637965269668,Historical
+1934,winter,Irrigation,29.184283622377173,Historical
+1935,fall,Control,14.945900499618775,Historical
+1935,fall,Drought,8.723852997224755,Historical
+1935,fall,Irrigation,22.35913363871396,Historical
+1935,spring,Control,20.44845835576891,Historical
+1935,spring,Drought,14.872789246678499,Historical
+1935,spring,Irrigation,28.43759216261332,Historical
+1935,summer,Control,9.788031449861519,Historical
+1935,summer,Drought,6.503599463164239,Historical
+1935,summer,Irrigation,14.786840941264106,Historical
+1935,winter,Control,21.929055739838518,Historical
+1935,winter,Drought,14.631583307989217,Historical
+1935,winter,Irrigation,33.06924755275795,Historical
+1936,fall,Control,9.60900551442126,Historical
+1936,fall,Drought,5.645864989394049,Historical
+1936,fall,Irrigation,14.69436661630414,Historical
+1936,spring,Control,14.146848019872463,Historical
+1936,spring,Drought,10.379763356621977,Historical
+1936,spring,Irrigation,19.708143446610585,Historical
+1936,summer,Control,12.003128812489818,Historical
+1936,summer,Drought,7.663245609160099,Historical
+1936,summer,Irrigation,17.54038046227009,Historical
+1936,winter,Control,17.832957663801928,Historical
+1936,winter,Drought,12.188553332735543,Historical
+1936,winter,Irrigation,27.123729202174633,Historical
+1937,fall,Control,10.228266659810515,Historical
+1937,fall,Drought,6.011518417910719,Historical
+1937,fall,Irrigation,15.656838353141953,Historical
+1937,spring,Control,12.48690923482955,Historical
+1937,spring,Drought,9.170447660424971,Historical
+1937,spring,Irrigation,17.398919499681583,Historical
+1937,summer,Control,10.306065019278943,Historical
+1937,summer,Drought,6.776354526700515,Historical
+1937,summer,Irrigation,15.433749386758668,Historical
+1937,winter,Control,8.957744519310188,Historical
+1937,winter,Drought,6.417666938402355,Historical
+1937,winter,Irrigation,13.86022225982913,Historical
+1938,fall,Control,17.049083039416384,Historical
+1938,fall,Drought,9.938567764553246,Historical
+1938,fall,Irrigation,25.394568719554936,Historical
+1938,spring,Control,21.28578227573301,Historical
+1938,spring,Drought,15.354140215911737,Historical
+1938,spring,Irrigation,29.553753822340344,Historical
+1938,summer,Control,10.674575829603128,Historical
+1938,summer,Drought,6.974698719324609,Historical
+1938,summer,Irrigation,15.902133418504798,Historical
+1938,winter,Control,16.402108899115582,Historical
+1938,winter,Drought,11.169159124272799,Historical
+1938,winter,Irrigation,24.91435741657709,Historical
+1939,fall,Control,12.245216522522721,Historical
+1939,fall,Drought,7.1551090230116765,Historical
+1939,fall,Irrigation,18.384521446043824,Historical
+1939,spring,Control,15.697353961181314,Historical
+1939,spring,Drought,11.515214531040382,Historical
+1939,spring,Irrigation,21.867347306800806,Historical
+1939,summer,Control,9.919538207721091,Historical
+1939,summer,Drought,6.53967862329198,Historical
+1939,summer,Irrigation,14.888086561771503,Historical
+1939,winter,Control,18.392034965346948,Historical
+1939,winter,Drought,12.837197302071049,Historical
+1939,winter,Irrigation,28.186796402544125,Historical
+1940,fall,Control,19.482188735415257,Historical
+1940,fall,Drought,11.364226533449498,Historical
+1940,fall,Irrigation,29.081501760579236,Historical
+1940,spring,Control,17.51088560059565,Historical
+1940,spring,Drought,12.801811052063517,Historical
+1940,spring,Irrigation,24.3771445894951,Historical
+1940,summer,Control,10.460363919460017,Historical
+1940,summer,Drought,6.820332589214372,Historical
+1940,summer,Irrigation,15.555667997113698,Historical
+1940,winter,Control,9.098124263052798,Historical
+1940,winter,Drought,6.439812562270611,Historical
+1940,winter,Irrigation,14.014835775276032,Historical
+1941,fall,Control,13.117924985875952,Historical
+1941,fall,Drought,7.69070288165969,Historical
+1941,fall,Irrigation,19.91533518515921,Historical
+1941,spring,Control,18.376738126729098,Historical
+1941,spring,Drought,13.379008899758682,Historical
+1941,spring,Irrigation,25.56139458471279,Historical
+1941,summer,Control,11.314827475942403,Historical
+1941,summer,Drought,7.356312329197248,Historical
+1941,summer,Irrigation,16.786189938701845,Historical
+1941,winter,Control,19.81682122590814,Historical
+1941,winter,Drought,13.746263095045643,Historical
+1941,winter,Irrigation,30.30219923210537,Historical
+1942,fall,Control,10.64660404190187,Historical
+1942,fall,Drought,6.249278641015678,Historical
+1942,fall,Irrigation,16.2274649485677,Historical
+1942,spring,Control,19.625333995887804,Historical
+1942,spring,Drought,14.264906188210446,Historical
+1942,spring,Irrigation,27.289395560246767,Historical
+1942,summer,Control,9.997878346213723,Historical
+1942,summer,Drought,6.61760626312859,Historical
+1942,summer,Irrigation,15.05557429171935,Historical
+1942,winter,Control,20.418469801136492,Historical
+1942,winter,Drought,13.848005578476656,Historical
+1942,winter,Irrigation,30.97030244098018,Historical
+1943,fall,Control,14.491380239212852,Historical
+1943,fall,Drought,8.498761901451994,Historical
+1943,fall,Irrigation,22.02487869654409,Historical
+1943,spring,Control,15.91849031579778,Historical
+1943,spring,Drought,11.560714884665163,Historical
+1943,spring,Irrigation,22.13124123212908,Historical
+1943,summer,Control,10.53116429754981,Historical
+1943,summer,Drought,6.921915962261548,Historical
+1943,summer,Irrigation,15.766203511885129,Historical
+1943,winter,Control,14.186462798805449,Historical
+1943,winter,Drought,9.485744655586318,Historical
+1943,winter,Irrigation,21.4094592430381,Historical
+1944,fall,Control,13.79692591357825,Historical
+1944,fall,Drought,8.065475926597399,Historical
+1944,fall,Irrigation,20.745789425226018,Historical
+1944,spring,Control,18.16687280956065,Historical
+1944,spring,Drought,13.033328550519716,Historical
+1944,spring,Irrigation,25.196497620772387,Historical
+1944,summer,Control,14.227340621903426,Historical
+1944,summer,Drought,8.772858003230215,Historical
+1944,summer,Irrigation,20.201170029131106,Historical
+1944,winter,Control,19.3042385756766,Historical
+1944,winter,Drought,13.728416845402693,Historical
+1944,winter,Irrigation,29.787937797084638,Historical
+1945,fall,Control,10.896373884304966,Historical
+1945,fall,Drought,6.392024317371713,Historical
+1945,fall,Irrigation,16.574952339114297,Historical
+1945,spring,Control,18.61305596263448,Historical
+1945,spring,Drought,13.509518098752016,Historical
+1945,spring,Irrigation,25.874387405604296,Historical
+1945,summer,Control,13.818076671616804,Historical
+1945,summer,Drought,8.864963877055386,Historical
+1945,summer,Irrigation,20.274232673816897,Historical
+1945,winter,Control,20.381383942950187,Historical
+1945,winter,Drought,14.104787068658574,Historical
+1945,winter,Irrigation,31.13906749121976,Historical
+1946,fall,Control,12.416759642296553,Historical
+1946,fall,Drought,7.251801826671617,Historical
+1946,fall,Irrigation,18.61160852755037,Historical
+1946,spring,Control,15.040778019219506,Historical
+1946,spring,Drought,10.909665237320064,Historical
+1946,spring,Irrigation,20.90581909547979,Historical
+1946,summer,Control,10.494199076299573,Historical
+1946,summer,Drought,6.88278750829609,Historical
+1946,summer,Irrigation,15.682695716807396,Historical
+1946,winter,Control,8.728391388649005,Historical
+1946,winter,Drought,6.228160383338539,Historical
+1946,winter,Irrigation,13.48524259012811,Historical
+1947,fall,Control,12.333726941325684,Historical
+1947,fall,Drought,7.22090855969805,Historical
+1947,fall,Irrigation,18.638471786431673,Historical
+1947,spring,Control,17.91390042594181,Historical
+1947,spring,Drought,12.91710935632498,Historical
+1947,spring,Irrigation,24.870333346666936,Historical
+1947,summer,Control,11.016299788806657,Historical
+1947,summer,Drought,7.202113707832975,Historical
+1947,summer,Irrigation,16.419058840599845,Historical
+1947,winter,Control,22.580639503538556,Historical
+1947,winter,Drought,15.302690911437368,Historical
+1947,winter,Irrigation,34.24048228481781,Historical
+1948,fall,Control,10.187929933596653,Historical
+1948,fall,Drought,5.9838326997530356,Historical
+1948,fall,Irrigation,15.560888952187257,Historical
+1948,spring,Control,13.788348280523879,Historical
+1948,spring,Drought,9.936079579046664,Historical
+1948,spring,Irrigation,19.140363704881715,Historical
+1948,summer,Control,11.377709282661776,Historical
+1948,summer,Drought,7.322489600315135,Historical
+1948,summer,Irrigation,16.73760723413915,Historical
+1948,winter,Control,10.538271832685902,Historical
+1948,winter,Drought,7.494842289568469,Historical
+1948,winter,Irrigation,16.26171976734966,Historical
+1949,fall,Control,13.413159946021915,Historical
+1949,fall,Drought,7.863181755303631,Historical
+1949,fall,Irrigation,20.35831132434292,Historical
+1949,spring,Control,13.614393172224457,Historical
+1949,spring,Drought,9.909460337963594,Historical
+1949,spring,Irrigation,18.93624448445436,Historical
+1949,summer,Control,10.62900281127599,Historical
+1949,summer,Drought,6.9581787192265026,Historical
+1949,summer,Irrigation,15.859418733345395,Historical
+1949,winter,Control,9.81160945282755,Historical
+1949,winter,Drought,6.82536649587201,Historical
+1949,winter,Irrigation,15.018549151161759,Historical
+1950,fall,Control,13.381797682306512,Historical
+1950,fall,Drought,7.839547311221969,Historical
+1950,fall,Irrigation,20.265581809597865,Historical
+1950,spring,Control,17.009731061591676,Historical
+1950,spring,Drought,12.47663120641183,Historical
+1950,spring,Irrigation,23.69506995671565,Historical
+1950,summer,Control,11.048534202551853,Historical
+1950,summer,Drought,7.185295985870885,Historical
+1950,summer,Irrigation,16.395142805300008,Historical
+1950,winter,Control,15.89674367696575,Historical
+1950,winter,Drought,11.068908833636385,Historical
+1950,winter,Irrigation,24.3413683717541,Historical
+1951,fall,Control,11.10949523311402,Historical
+1951,fall,Drought,6.525211455112082,Historical
+1951,fall,Irrigation,16.969348237371065,Historical
+1951,spring,Control,11.455901656720817,Historical
+1951,spring,Drought,8.400521399763356,Historical
+1951,spring,Irrigation,15.957517813260813,Historical
+1951,summer,Control,10.78622924712484,Historical
+1951,summer,Drought,7.016479350608024,Historical
+1951,summer,Irrigation,16.009265679977002,Historical
+1951,winter,Control,11.856579556784393,Historical
+1951,winter,Drought,8.420962752724888,Historical
+1951,winter,Irrigation,18.286865736856473,Historical
+1952,fall,Control,8.83208550758684,Historical
+1952,fall,Drought,5.20188001690539,Historical
+1952,fall,Irrigation,13.613764364062176,Historical
+1952,spring,Control,13.546696375519607,Historical
+1952,spring,Drought,9.9172985135382,Historical
+1952,spring,Irrigation,18.863694099469914,Historical
+1952,summer,Control,10.954602245754206,Historical
+1952,summer,Drought,7.074374019120951,Historical
+1952,summer,Irrigation,16.16111573042805,Historical
+1952,winter,Control,11.208146101680851,Historical
+1952,winter,Drought,7.324120338063147,Historical
+1952,winter,Irrigation,16.778917614587737,Historical
+1953,fall,Control,9.319560207623923,Historical
+1953,fall,Drought,5.485183026519852,Historical
+1953,fall,Irrigation,14.332421744682929,Historical
+1953,spring,Control,15.787750544811718,Historical
+1953,spring,Drought,11.352635716024594,Historical
+1953,spring,Irrigation,21.906671814121875,Historical
+1953,summer,Control,11.539415766197168,Historical
+1953,summer,Drought,7.500663868229519,Historical
+1953,summer,Irrigation,17.116219198794564,Historical
+1953,winter,Control,9.360284971423496,Historical
+1953,winter,Drought,6.6596445695855335,Historical
+1953,winter,Irrigation,14.446022110173478,Historical
+1954,fall,Control,11.034538056029911,Historical
+1954,fall,Drought,6.472666949479963,Historical
+1954,fall,Irrigation,16.78161942152124,Historical
+1954,spring,Control,14.191627496408993,Historical
+1954,spring,Drought,10.317773208342379,Historical
+1954,spring,Irrigation,19.73464056641513,Historical
+1954,summer,Control,10.63321243961378,Historical
+1954,summer,Drought,6.967448071591061,Historical
+1954,summer,Irrigation,15.878069665093783,Historical
+1954,winter,Control,9.756353834621173,Historical
+1954,winter,Drought,6.938602698645378,Historical
+1954,winter,Irrigation,15.0550237946169,Historical
+1955,fall,Control,10.501539525916204,Historical
+1955,fall,Drought,6.166514261071354,Historical
+1955,fall,Irrigation,16.02686140806825,Historical
+1955,spring,Control,14.79055882969719,Historical
+1955,spring,Drought,10.792798876135354,Historical
+1955,spring,Irrigation,20.582481158072394,Historical
+1955,summer,Control,10.81889632585795,Historical
+1955,summer,Drought,7.053966505768032,Historical
+1955,summer,Irrigation,16.088586826376048,Historical
+1955,winter,Control,16.53808733446385,Historical
+1955,winter,Drought,11.345626104958917,Historical
+1955,winter,Irrigation,25.18784411252848,Historical
+1956,fall,Control,15.58986801345557,Historical
+1956,fall,Drought,9.112614251049987,Historical
+1956,fall,Irrigation,23.433251582629428,Historical
+1956,spring,Control,18.70436052948054,Historical
+1956,spring,Drought,13.665083270350154,Historical
+1956,spring,Irrigation,26.0350975399673,Historical
+1956,summer,Control,9.921017524046205,Historical
+1956,summer,Drought,6.574431893179313,Historical
+1956,summer,Irrigation,14.954454087665608,Historical
+1956,winter,Control,20.71256960730814,Historical
+1956,winter,Drought,14.02479096748216,Historical
+1956,winter,Irrigation,31.39828870339145,Historical
+1957,fall,Control,10.485629234482387,Historical
+1957,fall,Drought,6.152669801403686,Historical
+1957,fall,Irrigation,15.96387457601562,Historical
+1957,spring,Control,21.98352566457146,Historical
+1957,spring,Drought,15.697077373631425,Historical
+1957,spring,Irrigation,30.461842705555675,Historical
+1957,summer,Control,12.120675928420447,Historical
+1957,summer,Drought,7.954867930902388,Historical
+1957,summer,Irrigation,18.12344976405609,Historical
+1957,winter,Control,19.51310318793592,Historical
+1957,winter,Drought,13.579976173889017,Historical
+1957,winter,Irrigation,29.87320951641866,Historical
+1958,fall,Control,9.982822653239017,not monitored
+1958,fall,Drought,5.8729993180748306,not monitored
+1958,fall,Irrigation,15.330452055614765,not monitored
+1958,spring,Control,18.801060683996315,not monitored
+1958,spring,Drought,13.720839681128334,not monitored
+1958,spring,Irrigation,26.16406288975531,not monitored
+1958,summer,Control,10.679875743059991,not monitored
+1958,summer,Drought,6.97434738392151,not monitored
+1958,summer,Irrigation,15.902785200344923,not monitored
+1958,winter,Control,13.107184472084171,not monitored
+1958,winter,Drought,9.21907364626512,not monitored
+1958,winter,Irrigation,20.143801754831664,not monitored
+1959,fall,Control,10.221843917725533,not monitored
+1959,fall,Drought,6.004843526490999,not monitored
+1959,fall,Irrigation,15.6220737939546,not monitored
+1959,spring,Control,15.100586337151615,not monitored
+1959,spring,Drought,10.812069251337885,not monitored
+1959,spring,Irrigation,20.935609141182706,not monitored
+1959,summer,Control,11.593476854356725,not monitored
+1959,summer,Drought,7.451832402066476,not monitored
+1959,summer,Irrigation,17.036938421765036,not monitored
+1959,winter,Control,9.515434255905701,not monitored
+1959,winter,Drought,6.779711095458288,not monitored
+1959,winter,Irrigation,14.693195532250332,not monitored
+1960,fall,Control,13.526746393076579,not monitored
+1960,fall,Drought,7.9258655092203245,not monitored
+1960,fall,Irrigation,20.497147340666462,not monitored
+1960,spring,Control,14.389268948602334,not monitored
+1960,spring,Drought,10.50780174781869,not monitored
+1960,spring,Irrigation,20.02700943723918,not monitored
+1960,summer,Control,9.846895271137578,not monitored
+1960,summer,Drought,6.509535445089741,not monitored
+1960,summer,Irrigation,14.812763392087987,not monitored
+1960,winter,Control,9.024731912693632,not monitored
+1960,winter,Drought,6.410586101926214,not monitored
+1960,winter,Irrigation,13.919916291802963,not monitored
+1961,fall,Control,18.396375912141366,not monitored
+1961,fall,Drought,10.697450742292117,not monitored
+1961,fall,Irrigation,27.17347211054406,not monitored
+1961,spring,Control,19.374306841328842,not monitored
+1961,spring,Drought,14.001620415744052,not monitored
+1961,spring,Irrigation,26.909757173982968,not monitored
+1961,summer,Control,10.327452817459392,not monitored
+1961,summer,Drought,6.80702895159874,not monitored
+1961,summer,Irrigation,15.497325497644846,not monitored
+1961,winter,Control,19.62272237439479,not monitored
+1961,winter,Drought,14.024395209655417,not monitored
+1961,winter,Irrigation,30.334840362419577,not monitored
+1962,fall,Control,9.760922121682867,not monitored
+1962,fall,Drought,5.739395555677648,not monitored
+1962,fall,Irrigation,14.963397465838185,not monitored
+1962,spring,Control,20.999410780254024,not monitored
+1962,spring,Drought,15.180536453255755,not monitored
+1962,spring,Irrigation,29.168620721839595,not monitored
+1962,summer,Control,13.605064526630764,not monitored
+1962,summer,Drought,8.843199184954813,not monitored
+1962,summer,Irrigation,20.179887061336718,not monitored
+1962,winter,Control,20.821615822308686,not monitored
+1962,winter,Drought,13.8526816807959,not monitored
+1962,winter,Irrigation,31.367298472207587,not monitored
+1963,fall,Control,12.617715464720177,not monitored
+1963,fall,Drought,7.38887755082036,not monitored
+1963,fall,Irrigation,19.082287798652633,not monitored
+1963,spring,Control,14.110590907644141,not monitored
+1963,spring,Drought,10.08203880827799,not monitored
+1963,spring,Irrigation,19.555051619088506,not monitored
+1963,summer,Control,11.457815008168396,not monitored
+1963,summer,Drought,7.461223830233279,not monitored
+1963,summer,Irrigation,17.02101116874133,not monitored
+1963,winter,Control,11.44294798352401,not monitored
+1963,winter,Drought,8.119243693806277,not monitored
+1963,winter,Irrigation,17.64256594583838,not monitored
+1964,fall,Control,13.81568774443773,not monitored
+1964,fall,Drought,8.099549293793718,not monitored
+1964,fall,Irrigation,20.972650968728402,not monitored
+1964,spring,Control,16.1490977177463,not monitored
+1964,spring,Drought,11.515923784845931,not monitored
+1964,spring,Irrigation,22.371537526249725,not monitored
+1964,summer,Control,13.447054269411764,not monitored
+1964,summer,Drought,8.686738043202995,not monitored
+1964,summer,Irrigation,19.8434300245676,not monitored
+1964,winter,Control,14.838722781324586,not monitored
+1964,winter,Drought,10.241780968731986,not monitored
+1964,winter,Irrigation,22.649136722414994,not monitored
+1965,fall,Control,11.147089201726768,not monitored
+1965,fall,Drought,6.541628129035641,not monitored
+1965,fall,Irrigation,16.97807252463448,not monitored
+1965,spring,Control,18.685313690357287,not monitored
+1965,spring,Drought,13.504124784987498,not monitored
+1965,spring,Irrigation,25.95295056281607,not monitored
+1965,summer,Control,12.401063339593184,not monitored
+1965,summer,Drought,7.8440676762907735,not monitored
+1965,summer,Irrigation,17.9828112352593,not monitored
+1965,winter,Control,22.303947987934997,not monitored
+1965,winter,Drought,14.856806812915334,not monitored
+1965,winter,Irrigation,33.61470515818672,not monitored
+1966,fall,Control,11.19116239129777,not monitored
+1966,fall,Drought,6.5525462919879764,not monitored
+1966,fall,Irrigation,16.916701145032906,not monitored
+1966,spring,Control,13.827631733130092,not monitored
+1966,spring,Drought,10.17857009230243,not monitored
+1966,spring,Irrigation,19.27593311007216,not monitored
+1966,summer,Control,9.89863535377663,not monitored
+1966,summer,Drought,6.558815882596415,not monitored
+1966,summer,Irrigation,14.91922769423022,not monitored
+1966,winter,Control,19.086110880866435,not monitored
+1966,winter,Drought,13.371506066486393,not monitored
+1966,winter,Irrigation,29.29030013130109,not monitored
+1967,fall,Control,10.468005202719397,not monitored
+1967,fall,Drought,6.15592032599561,not monitored
+1967,fall,Irrigation,16.053898892709327,not monitored
+1967,spring,Control,20.028970617328408,not monitored
+1967,spring,Drought,14.359339555862812,not monitored
+1967,spring,Irrigation,27.77538348838461,not monitored
+1967,summer,Control,13.904751157106585,not monitored
+1967,summer,Drought,8.859066905784514,not monitored
+1967,summer,Irrigation,20.28460463718666,not monitored
+1967,winter,Control,18.964651347804093,not monitored
+1967,winter,Drought,12.579820857681714,not monitored
+1967,winter,Irrigation,28.53995990355577,not monitored
+1968,fall,Control,15.063204064897235,not monitored
+1968,fall,Drought,8.774857908929906,not monitored
+1968,fall,Irrigation,22.384467417379245,not monitored
+1968,spring,Control,15.592280198788918,not monitored
+1968,spring,Drought,11.199152545284251,not monitored
+1968,spring,Irrigation,21.63055210426998,not monitored
+1968,summer,Control,13.1251095843524,not monitored
+1968,summer,Drought,8.417575759417042,not monitored
+1968,summer,Irrigation,19.2521454936528,not monitored
+1968,winter,Control,14.915847585072322,not monitored
+1968,winter,Drought,10.545532588511891,not monitored
+1968,winter,Irrigation,22.966800549629575,not monitored
+1969,fall,Control,13.13230218260694,not monitored
+1969,fall,Drought,7.656402183347471,not monitored
+1969,fall,Irrigation,19.569792275885423,not monitored
+1969,spring,Control,18.8346672471295,not monitored
+1969,spring,Drought,13.736010675419285,not monitored
+1969,spring,Irrigation,26.20729122617498,not monitored
+1969,summer,Control,11.296083192141584,not monitored
+1969,summer,Drought,7.346763309990612,not monitored
+1969,summer,Irrigation,16.763390635422386,not monitored
+1969,winter,Control,22.39568004713534,not monitored
+1969,winter,Drought,14.701056094225763,not monitored
+1969,winter,Irrigation,33.579881244666666,not monitored
+1970,fall,Control,14.246070790792063,not monitored
+1970,fall,Drought,8.334299782164678,not monitored
+1970,fall,Irrigation,21.474972346868025,not monitored
+1970,spring,Control,19.503196893357053,not monitored
+1970,spring,Drought,14.28621020271534,not monitored
+1970,spring,Irrigation,27.161211735259304,not monitored
+1970,summer,Control,11.335848334582233,not monitored
+1970,summer,Drought,7.335272652878984,not monitored
+1970,summer,Irrigation,16.75146532521485,not monitored
+1970,winter,Control,20.79399147946754,not monitored
+1970,winter,Drought,14.04500940249863,not monitored
+1970,winter,Irrigation,31.493851421726248,not monitored
+1971,fall,Control,10.50623833131894,not monitored
+1971,fall,Drought,6.167116583534571,not monitored
+1971,fall,Irrigation,16.01548911436427,not monitored
+1971,spring,Control,19.041695683888737,not monitored
+1971,spring,Drought,13.827506957337098,not monitored
+1971,spring,Irrigation,26.47285070774642,not monitored
+1971,summer,Control,11.751266791345607,not monitored
+1971,summer,Drought,7.645107241005682,not monitored
+1971,summer,Irrigation,17.443252917188943,not monitored
+1971,winter,Control,19.352903441501375,not monitored
+1971,winter,Drought,12.027967838664448,not monitored
+1971,winter,Irrigation,28.47825136517879,not monitored
+1972,fall,Control,16.42301240808031,not monitored
+1972,fall,Drought,9.621557978074046,not monitored
+1972,fall,Irrigation,24.874297853926347,not monitored
+1972,spring,Control,13.94389333114377,not monitored
+1972,spring,Drought,10.229830695094268,not monitored
+1972,spring,Irrigation,19.425018292743612,not monitored
+1972,summer,Control,10.625337166694182,not monitored
+1972,summer,Drought,6.89171196916112,not monitored
+1972,summer,Irrigation,15.732280541378415,not monitored
+1972,winter,Control,10.637251993641097,not monitored
+1972,winter,Drought,7.294335809664813,not monitored
+1972,winter,Irrigation,16.19824592330031,not monitored
+1973,fall,Control,12.26930072297087,not monitored
+1973,fall,Drought,7.181940873266602,not monitored
+1973,fall,Irrigation,18.530376585104033,not monitored
+1973,spring,Control,16.64288022458597,not monitored
+1973,spring,Drought,12.174681448828268,not monitored
+1973,spring,Irrigation,23.171600932972343,not monitored
+1973,summer,Control,11.338950337189422,not monitored
+1973,summer,Drought,7.285452199671065,not monitored
+1973,summer,Irrigation,16.657624117463925,not monitored
+1973,winter,Control,19.945867866278867,not monitored
+1973,winter,Drought,14.268554456336034,not monitored
+1973,winter,Irrigation,30.844932598128757,not monitored
+1974,fall,Control,14.070360225258202,not monitored
+1974,fall,Drought,8.265016563804178,not monitored
+1974,fall,Irrigation,21.498219368879802,not monitored
+1974,spring,Control,18.303223133569514,not monitored
+1974,spring,Drought,13.363037444073637,not monitored
+1974,spring,Irrigation,25.473345381777754,not monitored
+1974,summer,Control,9.891671223183186,not monitored
+1974,summer,Drought,6.532486973365168,not monitored
+1974,summer,Irrigation,14.867493720148888,not monitored
+1974,winter,Control,17.033321747663567,not monitored
+1974,winter,Drought,11.387264218187656,not monitored
+1974,winter,Irrigation,25.70417126397876,not monitored
+1975,fall,Control,12.066296462784164,not monitored
+1975,fall,Drought,7.063427106860976,not monitored
+1975,fall,Irrigation,18.22649974056902,not monitored
+1975,spring,Control,21.477277221508537,not monitored
+1975,spring,Drought,15.492419804418066,not monitored
+1975,spring,Irrigation,29.81968653992877,not monitored
+1975,summer,Control,11.73366456211158,not monitored
+1975,summer,Drought,7.611261742215429,not monitored
+1975,summer,Irrigation,17.37459679179159,not monitored
+1975,winter,Control,19.684730934343797,not monitored
+1975,winter,Drought,13.78939909536059,not monitored
+1975,winter,Irrigation,30.207774392649387,not monitored
+1976,fall,Control,14.850417313951805,not monitored
+1976,fall,Drought,8.638410892533502,not monitored
+1976,fall,Irrigation,21.960866021863954,not monitored
+1976,spring,Control,14.34945282832738,not monitored
+1976,spring,Drought,10.495348496131301,not monitored
+1976,spring,Irrigation,19.97788259984013,not monitored
+1976,summer,Control,10.938487840709014,not monitored
+1976,summer,Drought,7.102143059456709,not monitored
+1976,summer,Irrigation,16.209841045260102,not monitored
+1976,winter,Control,12.770437676859686,not monitored
+1976,winter,Drought,8.896964558546065,not monitored
+1976,winter,Irrigation,19.558228470332615,not monitored
+1977,fall,Control,13.74773019533054,not monitored
+1977,fall,Drought,8.039492576104585,not monitored
+1977,fall,Irrigation,20.695680564866365,not monitored
+1977,spring,Control,12.182199759389578,not monitored
+1977,spring,Drought,8.617027634935255,not monitored
+1977,spring,Irrigation,16.84962325942574,not monitored
+1977,summer,Control,12.578378186540833,not monitored
+1977,summer,Drought,8.03059591157849,not monitored
+1977,summer,Irrigation,18.38117255874831,not monitored
+1977,winter,Control,9.31368865188964,not monitored
+1977,winter,Drought,6.654821672208912,not monitored
+1977,winter,Irrigation,14.396718737854856,not monitored
+1978,fall,Control,11.297119140938765,not monitored
+1978,fall,Drought,6.6151542720392635,not monitored
+1978,fall,Irrigation,17.081760070807487,not monitored
+1978,spring,Control,19.161780931824794,not monitored
+1978,spring,Drought,13.733613652016418,not monitored
+1978,spring,Irrigation,26.5712808405626,not monitored
+1978,summer,Control,10.101102431365744,not monitored
+1978,summer,Drought,6.672942976147373,not monitored
+1978,summer,Irrigation,15.18635286605822,not monitored
+1978,winter,Control,16.684012418203533,not monitored
+1978,winter,Drought,11.441932308238792,not monitored
+1978,winter,Irrigation,25.40705590760884,not monitored
+1979,fall,Control,11.894444784287279,not monitored
+1979,fall,Drought,6.988115654250838,not monitored
+1979,fall,Irrigation,18.1843264832185,not monitored
+1979,spring,Control,14.652880643940854,not monitored
+1979,spring,Drought,10.80970403970227,not monitored
+1979,spring,Irrigation,20.435296849443137,not monitored
+1979,summer,Control,10.832882058805717,not monitored
+1979,summer,Drought,7.0606337134431225,not monitored
+1979,summer,Irrigation,16.104729061062027,not monitored
+1979,winter,Control,10.145602870075239,not monitored
+1979,winter,Drought,7.170688800888295,not monitored
+1979,winter,Irrigation,15.619963428534211,not monitored
+1980,fall,Control,13.05166371350002,not monitored
+1980,fall,Drought,7.629073109604413,not monitored
+1980,fall,Irrigation,19.618865525676686,not monitored
+1980,spring,Control,18.863960201854432,not monitored
+1980,spring,Drought,13.542661183859545,not monitored
+1980,spring,Irrigation,26.166812029916553,not monitored
+1980,summer,Control,12.166905959968949,not monitored
+1980,summer,Drought,7.930534052126662,not monitored
+1980,summer,Irrigation,18.088743028034557,not monitored
+1980,winter,Control,15.121467404189032,not monitored
+1980,winter,Drought,10.776843594241909,not monitored
+1980,winter,Irrigation,23.351993538744125,not monitored
+1981,fall,Control,15.510102541319238,not monitored
+1981,fall,Drought,9.079209055837724,not monitored
+1981,fall,Irrigation,23.427010156875575,not monitored
+1981,spring,Control,19.959557522882932,not monitored
+1981,spring,Drought,14.184732732287465,not monitored
+1981,spring,Irrigation,27.631888786120786,not monitored
+1981,summer,Control,10.748302355003178,not monitored
+1981,summer,Drought,7.123849051587339,not monitored
+1981,summer,Irrigation,16.2037308018742,not monitored
+1981,winter,Control,17.641897397917912,not monitored
+1981,winter,Drought,12.273587982538263,not monitored
+1981,winter,Irrigation,27.005219935690217,not monitored
+1982,fall,Control,16.044057973899704,not monitored
+1982,fall,Drought,9.370115638247654,not monitored
+1982,fall,Irrigation,24.047318661747337,not monitored
+1982,spring,Control,21.897748339160067,not monitored
+1982,spring,Drought,15.634650284599632,not monitored
+1982,spring,Irrigation,30.342537899056175,not monitored
+1982,summer,Control,12.038831649508158,not monitored
+1982,summer,Drought,7.843978949818807,not monitored
+1982,summer,Irrigation,17.89249360966772,not monitored
+1982,winter,Control,21.73456372143144,not monitored
+1982,winter,Drought,14.757801785865281,not monitored
+1982,winter,Irrigation,32.980260195249244,not monitored
+1983,fall,Control,18.515519891320725,not monitored
+1983,fall,Drought,10.767001719531292,not monitored
+1983,fall,Irrigation,27.35177382936511,not monitored
+1983,spring,Control,23.068154998996942,not monitored
+1983,spring,Drought,16.71944510673482,not monitored
+1983,spring,Irrigation,32.05857326807022,not monitored
+1983,summer,Control,12.925086157937681,not monitored
+1983,summer,Drought,8.32408661544648,not monitored
+1983,summer,Irrigation,19.024821669259296,not monitored
+1983,winter,Control,23.187408171954296,not monitored
+1983,winter,Drought,14.904008383349383,not monitored
+1983,winter,Irrigation,34.51418203502698,not monitored
+1984,fall,Control,12.113308416438,not monitored
+1984,fall,Drought,7.105865587063105,not monitored
+1984,fall,Irrigation,18.425774160570064,not monitored
+1984,spring,Control,21.8633313532364,not monitored
+1984,spring,Drought,15.684315584586825,not monitored
+1984,spring,Irrigation,30.32293695444524,not monitored
+1984,summer,Control,15.281841877432456,not monitored
+1984,summer,Drought,9.670065048867926,not monitored
+1984,summer,Irrigation,22.16747650992228,not monitored
+1984,winter,Control,20.357823913292872,not monitored
+1984,winter,Drought,12.923814313855434,not monitored
+1984,winter,Irrigation,30.17352974601517,not monitored
+1985,fall,Control,11.425743770933437,not monitored
+1985,fall,Drought,6.673805954888874,not monitored
+1985,fall,Irrigation,17.1329606302691,not monitored
+1985,spring,Control,14.635932904244784,not monitored
+1985,spring,Drought,10.664308590672432,not monitored
+1985,spring,Irrigation,20.36137984674177,not monitored
+1985,summer,Control,10.352061556889053,not monitored
+1985,summer,Drought,6.820634126817688,not monitored
+1985,summer,Irrigation,15.529287276036476,not monitored
+1985,winter,Control,13.395430220835197,not monitored
+1985,winter,Drought,9.171042832776156,not monitored
+1985,winter,Irrigation,20.38664767212774,not monitored
+1986,fall,Control,10.501396971952536,not monitored
+1986,fall,Drought,6.162956020350934,not monitored
+1986,fall,Irrigation,15.996771421981387,not monitored
+1986,spring,Control,21.649227866200537,not monitored
+1986,spring,Drought,15.480909248137564,not monitored
+1986,spring,Irrigation,30.007143006325403,not monitored
+1986,summer,Control,11.866017063788703,not monitored
+1986,summer,Drought,7.726776922288429,not monitored
+1986,summer,Irrigation,17.62690853972532,not monitored
+1986,winter,Control,9.88854792855612,not monitored
+1986,winter,Drought,6.732293441841562,not monitored
+1986,winter,Irrigation,15.01931843208491,not monitored
+1987,fall,Control,11.428182515410283,not monitored
+1987,fall,Drought,6.702743430910971,not monitored
+1987,fall,Irrigation,17.373161592933606,not monitored
+1987,spring,Control,17.05783555639924,not monitored
+1987,spring,Drought,12.311146763210731,not monitored
+1987,spring,Irrigation,23.68611810748429,not monitored
+1987,summer,Control,11.458929142219972,not monitored
+1987,summer,Drought,7.4585811477833195,not monitored
+1987,summer,Irrigation,17.016269769892823,not monitored
+1987,winter,Control,13.437454612110589,not monitored
+1987,winter,Drought,9.646837864096504,not monitored
+1987,winter,Irrigation,20.807382369071338,not monitored
+1988,fall,Control,9.943635383010552,not monitored
+1988,fall,Drought,5.849586470219832,not monitored
+1988,fall,Irrigation,15.267190045745915,not monitored
+1988,spring,Control,17.486792766090662,not monitored
+1988,spring,Drought,12.549492928734788,not monitored
+1988,spring,Irrigation,24.25480200750438,not monitored
+1988,summer,Control,9.833031294860964,not monitored
+1988,summer,Drought,6.507419658807574,not monitored
+1988,summer,Irrigation,14.805294989069283,not monitored
+1988,winter,Control,19.956565028851593,not monitored
+1988,winter,Drought,14.039064760539022,not monitored
+1988,winter,Irrigation,30.67220776555242,not monitored
+1989,fall,Control,11.874180037699865,not monitored
+1989,fall,Drought,6.968540199456502,not monitored
+1989,fall,Irrigation,18.08740506911526,not monitored
+1989,spring,Control,16.19475270813672,not monitored
+1989,spring,Drought,11.788618221416876,not monitored
+1989,spring,Irrigation,22.525642344248197,not monitored
+1989,summer,Control,11.924445257102766,not monitored
+1989,summer,Drought,7.748769881839021,not monitored
+1989,summer,Irrigation,17.68321611870754,not monitored
+1989,winter,Control,13.95056019446608,not monitored
+1989,winter,Drought,9.491881545464048,not monitored
+1989,winter,Irrigation,21.184237134063686,not monitored
+1990,fall,Control,10.839582258822267,not monitored
+1990,fall,Drought,6.3581838176779115,not monitored
+1990,fall,Irrigation,16.48404669845161,not monitored
+1990,spring,Control,15.725831999139576,not monitored
+1990,spring,Drought,11.403813420244797,not monitored
+1990,spring,Irrigation,21.856965008103327,not monitored
+1990,summer,Control,11.377673245677295,not monitored
+1990,summer,Drought,7.369535715145032,not monitored
+1990,summer,Irrigation,16.8269427725792,not monitored
+1990,winter,Control,12.775241595317064,not monitored
+1990,winter,Drought,9.078816514519414,not monitored
+1990,winter,Irrigation,19.708053893398276,not monitored
+1991,fall,Control,15.617554375783369,not monitored
+1991,fall,Drought,9.1389356731514,not monitored
+1991,fall,Irrigation,23.56203026226638,not monitored
+1991,spring,Control,20.962017396641468,not monitored
+1991,spring,Drought,14.87174815230564,not monitored
+1991,spring,Irrigation,29.01007530448357,not monitored
+1991,summer,Control,11.91833044542769,not monitored
+1991,summer,Drought,7.748402435533917,not monitored
+1991,summer,Irrigation,17.680996505381728,not monitored
+1991,winter,Control,16.618786226338237,not monitored
+1991,winter,Drought,11.81078028478103,not monitored
+1991,winter,Irrigation,25.63781265423696,not monitored
+1992,fall,Control,12.835523016625704,not monitored
+1992,fall,Drought,7.504726918951136,not monitored
+1992,fall,Irrigation,19.311115171409377,not monitored
+1992,spring,Control,14.834678058111837,not monitored
+1992,spring,Drought,10.945307725595812,not monitored
+1992,spring,Irrigation,20.689399480990065,not monitored
+1992,summer,Control,10.846261893480799,not monitored
+1992,summer,Drought,7.053659202166518,not monitored
+1992,summer,Irrigation,16.094813739677473,not monitored
+1992,winter,Control,21.71462827288208,not monitored
+1992,winter,Drought,15.352128408022056,not monitored
+1992,winter,Irrigation,33.43515599328394,not monitored
+1993,fall,Control,10.251113530846398,not monitored
+1993,fall,Drought,6.02111907612005,not monitored
+1993,fall,Irrigation,15.658905958879853,not monitored
+1993,spring,Control,21.267252837729945,not monitored
+1993,spring,Drought,15.22935056000293,not monitored
+1993,spring,Irrigation,29.485868824754462,not monitored
+1993,summer,Control,13.247435691147784,not monitored
+1993,summer,Drought,8.559067723592955,not monitored
+1993,summer,Irrigation,19.551294043855385,not monitored
+1993,winter,Control,16.389911869124553,not monitored
+1993,winter,Drought,10.808408958042891,not monitored
+1993,winter,Irrigation,24.61453828132381,not monitored
+1994,fall,Control,17.011942555052283,not monitored
+1994,fall,Drought,9.960248943739625,not monitored
+1994,fall,Irrigation,25.711794842919154,not monitored
+1994,spring,Control,14.131273081107079,not monitored
+1994,spring,Drought,10.327667684356191,not monitored
+1994,spring,Irrigation,19.67105865621981,not monitored
+1994,summer,Control,10.287788234423951,not monitored
+1994,summer,Drought,6.761457386702393,not monitored
+1994,summer,Irrigation,15.40090990191871,not monitored
+1994,winter,Control,10.00428379278702,not monitored
+1994,winter,Drought,7.163939339700708,not monitored
+1994,winter,Irrigation,15.47672155439175,not monitored
+1995,fall,Control,10.287723638916814,not monitored
+1995,fall,Drought,6.038068711687213,not monitored
+1995,fall,Irrigation,15.675677894089187,not monitored
+1995,spring,Control,22.519053025283043,not monitored
+1995,spring,Drought,15.773056607398752,not monitored
+1995,spring,Irrigation,31.087972956427848,not monitored
+1995,summer,Control,14.739680500727271,not monitored
+1995,summer,Drought,9.386247884387641,not monitored
+1995,summer,Irrigation,21.493555487068257,not monitored
+1995,winter,Control,22.111421531128215,not monitored
+1995,winter,Drought,14.691302696456155,not monitored
+1995,winter,Irrigation,33.29480622325756,not monitored
+1996,fall,Control,14.0862176809529,not monitored
+1996,fall,Drought,8.228199015210992,not monitored
+1996,fall,Irrigation,21.12582377057821,not monitored
+1996,spring,Control,19.30181923517582,not monitored
+1996,spring,Drought,14.00999756000952,not monitored
+1996,spring,Irrigation,26.832066546836305,not monitored
+1996,summer,Control,10.522304780053554,not monitored
+1996,summer,Drought,6.8499196539370235,not monitored
+1996,summer,Irrigation,15.627271619597012,not monitored
+1996,winter,Control,18.83651147066627,not monitored
+1996,winter,Drought,12.784989704080806,not monitored
+1996,winter,Irrigation,28.57870992266869,not monitored
+1997,fall,Control,9.90634224074376,not monitored
+1997,fall,Drought,5.82244222896205,not monitored
+1997,fall,Irrigation,15.165175479567807,not monitored
+1997,spring,Control,19.462818079753774,not monitored
+1997,spring,Drought,14.08467720755328,not monitored
+1997,spring,Irrigation,27.039917112768585,not monitored
+1997,summer,Control,12.49957064081305,not monitored
+1997,summer,Drought,8.078792870870013,not monitored
+1997,summer,Irrigation,18.45308966733646,not monitored
+1997,winter,Control,22.710427834110394,not monitored
+1997,winter,Drought,14.760700939250038,not monitored
+1997,winter,Irrigation,33.93451741817457,not monitored
+1998,fall,Control,10.409218825790385,not monitored
+1998,fall,Drought,6.109502068953964,not monitored
+1998,fall,Irrigation,15.861881696776464,not monitored
+1998,spring,Control,17.87393195043814,not monitored
+1998,spring,Drought,12.502691622267342,not monitored
+1998,spring,Irrigation,24.668949515499488,not monitored
+1998,summer,Control,13.149120992466436,not monitored
+1998,summer,Drought,8.642486596262046,not monitored
+1998,summer,Irrigation,19.685245738445534,not monitored
+1998,winter,Control,9.124919324850781,not monitored
+1998,winter,Drought,6.464807668438968,not monitored
+1998,winter,Irrigation,14.060923062239592,not monitored
+1999,fall,Control,9.426355187582251,not monitored
+1999,fall,Drought,5.550106779988737,not monitored
+1999,fall,Irrigation,14.51443808911621,not monitored
+1999,spring,Control,19.92676923245977,not monitored
+1999,spring,Drought,14.214485254588292,not monitored
+1999,spring,Irrigation,27.606570470846243,not monitored
+1999,summer,Control,12.342058155750424,not monitored
+1999,summer,Drought,8.05091246792424,not monitored
+1999,summer,Irrigation,18.360942089380565,not monitored
+1999,winter,Control,15.669988291780161,not monitored
+1999,winter,Drought,10.863582594659652,not monitored
+1999,winter,Irrigation,23.956296801268767,not monitored
+2000,fall,Control,13.51243504735053,not monitored
+2000,fall,Drought,7.904326748919256,not monitored
+2000,fall,Irrigation,20.362376439089196,not monitored
+2000,spring,Control,18.92450274317473,not monitored
+2000,spring,Drought,13.543190915233062,not monitored
+2000,spring,Irrigation,26.234547892263084,not monitored
+2000,summer,Control,9.847669228543937,not monitored
+2000,summer,Drought,6.517654562702235,not monitored
+2000,summer,Irrigation,14.828374891423517,not monitored
+2000,winter,Control,10.303554604305381,not monitored
+2000,winter,Drought,7.216657466699598,not monitored
+2000,winter,Irrigation,15.810731793921432,not monitored
+2001,fall,Control,11.48714255288491,not monitored
+2001,fall,Drought,6.741616356728388,not monitored
+2001,fall,Irrigation,17.499695826503796,not monitored
+2001,spring,Control,16.163141504987596,not monitored
+2001,spring,Drought,11.794897045529448,not monitored
+2001,spring,Irrigation,22.492755579878246,not monitored
+2001,summer,Control,10.137011810594931,not monitored
+2001,summer,Drought,6.656822299361513,not monitored
+2001,summer,Irrigation,15.164675171844491,not monitored
+2001,winter,Control,14.877065672307872,not monitored
+2001,winter,Drought,10.40701663885063,not monitored
+2001,winter,Irrigation,22.818417246436457,not monitored
+2002,fall,Control,10.80364844752553,not monitored
+2002,fall,Drought,6.3417701876675,not monitored
+2002,fall,Irrigation,16.469500945058368,not monitored
+2002,spring,Control,16.000873006990226,not monitored
+2002,spring,Drought,11.583585857350513,not monitored
+2002,spring,Irrigation,22.2317928828337,not monitored
+2002,summer,Control,10.201321858297616,not monitored
+2002,summer,Drought,6.734808432860412,not monitored
+2002,summer,Irrigation,15.328782297085645,not monitored
+2002,winter,Control,15.698430004443214,not monitored
+2002,winter,Drought,10.044710464774791,not monitored
+2002,winter,Irrigation,23.330485020222792,not monitored
+2003,fall,Control,9.299298795049026,not monitored
+2003,fall,Drought,5.474845132981169,not monitored
+2003,fall,Irrigation,14.31490886998604,not monitored
+2003,spring,Control,20.117236493850452,not monitored
+2003,spring,Drought,14.265085188197492,not monitored
+2003,spring,Irrigation,27.8381823808798,not monitored
+2003,summer,Control,9.619667782370492,not monitored
+2003,summer,Drought,6.404785762414958,not monitored
+2003,summer,Irrigation,14.557284548366932,not monitored
+2003,winter,Control,15.316078030205471,not monitored
+2003,winter,Drought,10.768310286953039,not monitored
+2003,winter,Irrigation,23.53502321111108,not monitored
+2004,fall,Control,15.459178989583158,not monitored
+2004,fall,Drought,9.045158946671576,not monitored
+2004,fall,Irrigation,23.313633047840632,not monitored
+2004,spring,Control,18.0745547548184,not monitored
+2004,spring,Drought,13.06892045276068,not monitored
+2004,spring,Irrigation,25.106983012865356,not monitored
+2004,summer,Control,10.887601485713699,not monitored
+2004,summer,Drought,7.075704643787345,not monitored
+2004,summer,Irrigation,16.146968121540354,not monitored
+2004,winter,Control,15.005282876273384,not monitored
+2004,winter,Drought,10.152092818545677,not monitored
+2004,winter,Irrigation,22.74003233464661,not monitored
+2005,fall,Control,16.455608082671766,not monitored
+2005,fall,Drought,9.627558880699963,not monitored
+2005,fall,Irrigation,24.811077837024097,not monitored
+2005,spring,Control,20.635645126227924,not monitored
+2005,spring,Drought,14.676469488392272,not monitored
+2005,spring,Irrigation,28.572120285802313,not monitored
+2005,summer,Control,11.836920326482318,not monitored
+2005,summer,Drought,7.789961204928011,not monitored
+2005,summer,Irrigation,17.739659429958884,not monitored
+2005,winter,Control,17.797182723724937,not monitored
+2005,winter,Drought,12.392792378256882,not monitored
+2005,winter,Irrigation,27.25183798308154,not monitored
+2006,fall,Control,17.01172114783599,not monitored
+2006,fall,Drought,9.9526838692691,not monitored
+2006,fall,Irrigation,25.647533699697636,not monitored
+2006,spring,Control,19.421181893305768,not monitored
+2006,spring,Drought,13.95436334164571,not monitored
+2006,spring,Irrigation,26.944166313233954,not monitored
+2006,summer,Control,10.9632257700175,not monitored
+2006,summer,Drought,7.1391218530061975,not monitored
+2006,summer,Irrigation,16.28622343151235,not monitored
+2006,winter,Control,19.730856147336763,not monitored
+2006,winter,Drought,13.254761498495773,not monitored
+2006,winter,Irrigation,29.82606525153486,not monitored
+2007,fall,Control,13.174587576264841,Modern
+2007,fall,Drought,7.71178883575794,Modern
+2007,fall,Irrigation,19.897037642064458,Modern
+2007,spring,Control,16.324537530787076,Modern
+2007,spring,Drought,11.930626967978917,Modern
+2007,spring,Irrigation,22.7241481484321,Modern
+2007,summer,Control,9.782242620372342,Modern
+2007,summer,Drought,6.485006662031608,Modern
+2007,summer,Irrigation,14.75009098240516,Modern
+2007,winter,Control,19.57736099024506,Modern
+2007,winter,Drought,13.7423672706232,Modern
+2007,winter,Irrigation,30.06549941123,Modern
+2008,fall,Control,12.850670193720479,Modern
+2008,fall,Drought,7.536425215495528,Modern
+2008,fall,Irrigation,19.53028898966679,Modern
+2008,spring,Control,14.000077129150938,Modern
+2008,spring,Drought,10.21072939488154,Modern
+2008,spring,Irrigation,19.480464375102233,Modern
+2008,summer,Control,10.124571539129796,Modern
+2008,summer,Drought,6.7265132059048325,Modern
+2008,summer,Irrigation,15.293928003923526,Modern
+2008,winter,Control,11.371573860951464,Modern
+2008,winter,Drought,7.9927964975180705,Modern
+2008,winter,Irrigation,17.472021630950174,Modern
+2009,fall,Control,10.467233790819536,Modern
+2009,fall,Drought,6.153204472911807,Modern
+2009,fall,Irrigation,16.033266416865754,Modern
+2009,spring,Control,16.94700543959632,Modern
+2009,spring,Drought,12.379017831353064,Modern
+2009,spring,Irrigation,23.5881663503201,Modern
+2009,summer,Control,11.98173367542536,Modern
+2009,summer,Drought,7.81468046080593,Modern
+2009,summer,Irrigation,17.82264327279069,Modern
+2009,winter,Control,16.421195216540625,Modern
+2009,winter,Drought,11.668020723507619,Modern
+2009,winter,Irrigation,25.33112614206104,Modern
+2010,fall,Control,14.396324094708191,Modern
+2010,fall,Drought,8.413945440754796,Modern
+2010,fall,Irrigation,21.630485894046537,Modern
+2010,spring,Control,15.090327164436264,Modern
+2010,spring,Drought,10.941998501264829,Modern
+2010,spring,Irrigation,20.973324948498924,Modern
+2010,summer,Control,10.702629663078548,Modern
+2010,summer,Drought,6.9926744775748695,Modern
+2010,summer,Irrigation,15.943252685186861,Modern
+2010,winter,Control,9.750661481540964,Modern
+2010,winter,Drought,6.984284870236989,Modern
+2010,winter,Irrigation,15.085930723208406,Modern
+2011,fall,Control,15.746473087849902,Modern
+2011,fall,Drought,9.23465624078941,Modern
+2011,fall,Irrigation,23.930896106670367,Modern
+2011,spring,Control,20.84331723582665,Modern
+2011,spring,Drought,14.914569663003634,Modern
+2011,spring,Irrigation,28.89386674794028,Modern
+2011,summer,Control,12.815053132351697,Modern
+2011,summer,Drought,8.289771486608835,Modern
+2011,summer,Irrigation,18.93227029064257,Modern
+2011,winter,Control,21.94072659571633,Modern
+2011,winter,Drought,15.091049092890316,Modern
+2011,winter,Irrigation,33.447340091633194,Modern
+2012,fall,Control,11.503343493392,Modern
+2012,fall,Drought,6.755730354379264,Modern
+2012,fall,Irrigation,17.56397625711447,Modern
+2012,spring,Control,15.768445511633313,Modern
+2012,spring,Drought,11.500146592870864,Modern
+2012,spring,Irrigation,21.94094910376387,Modern
+2012,summer,Control,9.906850186721446,Modern
+2012,summer,Drought,6.538017797583167,Modern
+2012,summer,Irrigation,14.881774828631702,Modern
+2012,winter,Control,18.147023723868003,Modern
+2012,winter,Drought,12.048291027511732,Modern
+2012,winter,Irrigation,27.318150929768713,Modern
+2013,fall,Control,10.020792089394213,Modern
+2013,fall,Drought,5.890595916838106,Modern
+2013,fall,Irrigation,15.347998267559019,Modern
+2013,spring,Control,15.888429331316912,Modern
+2013,spring,Drought,11.671011898393397,Modern
+2013,spring,Irrigation,22.139440002496592,Modern
+2013,summer,Control,9.768552034163358,Modern
+2013,summer,Drought,6.472232509354964,Modern
+2013,summer,Irrigation,14.722424601971431,Modern
+2013,winter,Control,22.330634832482506,Modern
+2013,winter,Drought,15.55901163547141,Modern
+2013,winter,Irrigation,34.20117992416284,Modern
+2014,fall,Control,13.041048481669009,Modern
+2014,fall,Drought,7.598266865389813,Modern
+2014,fall,Irrigation,19.391398115139253,Modern
+2014,spring,Control,12.807366542655336,Modern
+2014,spring,Drought,9.26372685290191,Modern
+2014,spring,Irrigation,17.791683896300217,Modern
+2014,summer,Control,11.298799403000565,Modern
+2014,summer,Drought,7.354825913294857,Modern
+2014,summer,Irrigation,16.779378180796193,Modern
+2014,winter,Control,9.199348754155213,Modern
+2014,winter,Drought,6.770674482133759,Modern
+2014,winter,Irrigation,14.377645758709964,Modern
+2015,fall,Control,13.616314656014131,Modern
+2015,fall,Drought,7.9545750061430764,Modern
+2015,fall,Irrigation,20.428488573474493,Modern
+2015,spring,Control,13.840273385538849,Modern
+2015,spring,Drought,9.886031156172729,Modern
+2015,spring,Irrigation,19.17935006431794,Modern
+2015,summer,Control,11.526696106576292,Modern
+2015,summer,Drought,7.435219229156734,Modern
+2015,summer,Irrigation,16.98876879522486,Modern
+2015,winter,Control,15.882825231645139,Modern
+2015,winter,Drought,11.148764005841002,Modern
+2015,winter,Irrigation,24.39152492499253,Modern
+2016,fall,Control,16.785247855315397,Modern
+2016,fall,Drought,9.77513818632427,Modern
+2016,fall,Irrigation,24.91879359566163,Modern
+2016,spring,Control,18.87480757055285,Modern
+2016,spring,Drought,13.46995878729082,Modern
+2016,spring,Irrigation,26.15140467542182,Modern
+2016,summer,Control,10.601878316153192,Modern
+2016,summer,Drought,6.969444589985841,Modern
+2016,summer,Irrigation,15.874063051718432,Modern
+2016,winter,Control,17.26849968596027,Modern
+2016,winter,Drought,11.770781443095181,Modern
+2016,winter,Irrigation,26.23967630592869,Modern
+2017,winter,Control,21.24121458947065,NA
+2017,winter,Drought,14.858815315291368,NA
+2017,winter,Irrigation,32.57962490951801,NA
